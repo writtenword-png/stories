@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "title": "Exemple : La dernière lumière",
+    "date": "2025-01-01",
+    "body": "C'est ici que vous mettez le texte de votre nouvelle.\n\nVous pouvez écrire plusieurs paragraphes en séparant chaque paragraphe par une ligne vide.\n\nCe fichier stories.json est votre «\u00a0backend\u00a0». Ajoutez une entrée par nouvelle, mettez à jour le fichier, et vos lecteurs verront le changement automatiquement."
+  }
+]
